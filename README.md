@@ -77,17 +77,18 @@
 git clone 
 ```
 
-### 2. Configuração do Backend (auxia-backend)
+### 2. Configuração do Backend
 
 
 ---
 
-### 3. Configuração do Frontend (auxia-frontend)
+### 3. Configuração do Frontend
 
 
 ```
 
-## 🎓 Equipe <a id="equipe"></a>
+
+### 🎓 Equipe <a id="equipe"></a>
 
 <div align="center">
   <table>
@@ -100,19 +101,19 @@ git clone
     <tr>
       <td>Kaike Lima</td>
       <td>Product Owner</td>
-      <td><a href=" "><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://github.com/KaikeCaboclo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href=" "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td> 
     </tr>
     <tr>
       <td>Marcos Alexandre</td>
       <td>Scrum Master</td>
-      <td><a href=" "><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href=" "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://github.com/MarcosAlexandre-txt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/marcos-alexandre-cs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Davi Reis</td>
       <td>Desenvolvedor</td>
-      <td><a href=" "><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://github.com/davireis00"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href=" "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
