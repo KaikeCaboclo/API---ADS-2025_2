@@ -29,6 +29,17 @@
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
 
+| Rank | User Stories                                                                                                                                                                                                                      | Esforço | Prioridade | Sprint |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ------ |
+| 1    | Como estudante/profissional, quero um site que contenha guia técnico sobre a metodologia Scrum, com conceitos e referências, para compreender de forma clara os processos.                                                        | 20      | Alta       | 1      |
+| 2    | Como estudante/profissional, quero uma navegação simples e intuitiva, de forma a me movimentar com fluidez pelo conteúdo do site.                                                                                                 | 20      | Alta       | 1      |
+| 3    | Como estudante/profissional,quero visualizar exemplos práticos de aplicação do método Scrum, para replicar os passos em futuros projetos.                                                                                         | 20      | Média      | 1      |
+| 4    | Como estudante/profissional, quero compreender as principais habilidades (skills) importantes na área de TI, para me preparar para o mercado de trabalho e desenvolver competências necessárias para a aplicação do método Scrum. | 40      | Alta       | 2      |
+| 5    | Como estudante/profissional, quero ter um sistema de avaliação para testar meus conhecimentos sobre o método Scrum.                                                                                                               | 40      | Média      | 3      |
+| 6    | Como estudante/profissional, quero ter acesso a documentação de desenvolvimento no GitHub para acompanhar os processos adotados.                                                                                                  | 13      | Baixa      | 3      |
+| 7    | Como estudante, quero acompanhar meu progresso dos módulos iniciados/completados.                                                                                                                                                 | 20      | Baixa      | 3      |
+
+
 ---
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
@@ -67,7 +78,7 @@
 
 - Git ([Download](https://git-scm.com/downloads))
 
-- Python 3.9+ ([Download](https://www.python.org/downloads/))
+- Python 3.13+ ([Download](https://www.python.org/downloads/))
 
 ---
 
