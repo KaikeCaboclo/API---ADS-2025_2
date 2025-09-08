@@ -41,7 +41,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #1e3a8a;
+  background-color: #0e0278;
   padding: 1rem 2rem;
 }
 
@@ -68,18 +68,18 @@ body {
 .hero {
   text-align: center;
   padding: 5rem 2rem;
-  background: linear-gradient(to right, #1e3a8a, #3b82f6);
+  background: linear-gradient(to right, #0430c0, #050f65);
   color: white;
-}
-
-.hero-content {
-  max-width: 900px;
-  margin: 0 auto;
 }
 
 .hero h1 {
   font-size: 2.8rem;
   margin-bottom: 1rem;
+}
+
+.hero-content {
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 .subtitulo {
@@ -95,23 +95,18 @@ body {
 
 
 
-/* Botão */
-.btn {
-  display: inline-block;
-  padding: 0.7rem 1.2rem;
-  background-color: #1e3a8a;
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #0e0278;
   color: white;
-  text-decoration: none;
-  border-radius: 0.4rem;
-}
-
-.btn:hover {
-  background-color: #3b82f6;
+  margin-top: 2rem;
 }
 
 
 
-/* Conteúdo padrão */
+/* Conteúdo da lista */
 .content {
   padding: 2rem;
   max-width: 800px;
@@ -120,15 +115,16 @@ body {
 
 
 
-/* Status card */
+/* Status card (Provisório)*/
 .status-card {
   background: #ffffff;
   border-radius: 0.8rem;
   padding: 1.5rem;
   margin-top: 1.5rem;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px rgba(223, 1, 1, 0.1);
   text-align: center;
 }
+
 
 
 
@@ -147,20 +143,39 @@ body {
 }
 
 .status-table th {
-  background-color: #1e3a8a;
+  background-color: #050f65;
   color: white;
 }
 
 
 
-/* Rodapé */
-footer {
-  text-align: center;
-  padding: 1rem;
-  background-color: #1e3a8a;
-  color: white;
+
+/* Lista de Módulos */
+.modulo-lista {
+  list-style-type: none;
+  padding: 0;
   margin-top: 2rem;
 }
+
+.modulo-lista li {
+  background: #ffffff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.modulo-lista li a {
+  text-decoration: none;
+  color: #1e3a8a;
+  font-weight: bold;
+}
+
+.modulo-lista li a:hover {
+  text-decoration: underline;
+}
+
+
 
 
 /* Seção de login centralizada */
@@ -203,7 +218,7 @@ footer {
 
 .login-form button {
   padding: 0.8rem;
-  background: #0066cc;
+  background: #050f65;
   color: white;
   border: none;
   border-radius: 5px;
@@ -216,27 +231,4 @@ footer {
 }
 
 
-/* Lista de Módulos */
-.modulo-lista {
-  list-style-type: none;
-  padding: 0;
-  margin-top: 2rem;
-}
 
-.modulo-lista li {
-  background: #ffffff;
-  padding: 1rem;
-  margin-bottom: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-}
-
-.modulo-lista li a {
-  text-decoration: none;
-  color: #1e3a8a;
-  font-weight: bold;
-}
-
-.modulo-lista li a:hover {
-  text-decoration: underline;
-}
