@@ -28,15 +28,6 @@
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-| Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Status |
-| :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|   1  |    Alta    | Como estudante/profissional, quero um site que contenha guia técnico sobre a metodologia Scrum, com conceitos e referências, para compreender de forma clara os processos.                                                                                             |      20      |    1   |    ❌   |
-|   2  |    Alta    | Como estudante/profissional,quero visualizar exemplos práticos de aplicação do método Scrum, para replicar os passos em futuros projetos.                                                                       |      20      |    1   |    ❌   |
-|   3  |    Média   | Como usuário, eu quero visualizar as respostas das LLMs de forma clara e acessível, para que eu possa analisá-las em critérios.                                                                                |      20      |    1   |    ❌   |
-|   4  |    Média   | Como estudante/profissional, quero compreender as principais habilidades (skills) importantes na área de TI, para me preparar para o mercado de trabalho e desenvolver competências necessárias para a aplicação do método Scrum.                             |      40      |    2   |    ❌   |
-|   5  |    Baixa   |    Como estudante/profissional, quero ter um sistema de avaliação para testar meus conhecimentos sobre o método Scrum.                                        |      40      |    3   |    ❌   |
-|   6  |    Baixa   |    Como estudante/profissional, quero ter acesso a documentação de desenvolvimento no GitHub para acompanhar os processos adotados.                                  |      20      |    3   |    ❌   |
-|   7  |    Baixa   |    Como estudante, quero acompanhar meu progresso dos módulos iniciados/completados.                                   |      20      |    3   |    ❌   |
 
 ---
 
