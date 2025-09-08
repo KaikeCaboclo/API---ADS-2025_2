@@ -84,9 +84,7 @@ git clone
 
 ### 3. Configuração do Frontend
 
-
-```
-
+---
 
 ### 🎓 Equipe <a id="equipe"></a>
 
