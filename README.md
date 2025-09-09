@@ -42,6 +42,10 @@
 | 7    | Baixa      | Como contratante, quero que seja possível que meus funcionários acompanhem seu progresso dos módulos iniciados/completados.                                                                                                                                                 | 20      | 3      |
 
 
+*O índice de esforço está sendo medido pela métrica de Fibonacci adaptada (1, 2, 3, 5, 8, 13, 20, 40, 100. Sendo cada unidade equivalente a meia hora de esforço.)
+
+
+
 ---
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
@@ -60,35 +64,15 @@
 ---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 22
-Git
-Inbox
-
-Marcos Alexandre <marcos.alexandre.scrt@gmail.com>
-Attachments
-10:21 AM (3 minutes ago)
-to me
 
 
- 2 Attachments
-  •  Scanned by Gmail
-# Backlog da Sprint
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](./docs/processo/sprints/sprint-1/README.md) |
+| 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
+| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
 
 
-| Rank | Prioridade | User Stories                                                                                                                                                                                                             | Esforço | Sprint |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------ |
-| 1    | Alta       | Como contratante, quero acessar uma página simples e visualmente clara, para que eu entenda rapidamente o propósito do site e possa navegar com facilidade.                                                              | 40      | 1      |
-| 2    | Média      | Como contratante, quero ter todas a pesquisa sobre o método bem estruturada em documentos, para que a equipe possa consultar facilmente e garantir o comprometimento com o conteúdo do site.                             | 20      | 1      |
-| 3    | Média      | Como contratante interessado em metodologias ágeis, quero encontrar um resumo simples e direto sobre Scrum no site, para que eu possa entender rapidamente os conceitos principais sem precisar buscar em outras fontes. | 20      | 1      |
-*O índice de esforço está sendo medido pela métrica de Fibonacci adaptada (1, 2, 3, 5, 8, 13, 20, 40, 100. Sendo cada unidade equivalente a meia hora de esforço.)
-README.md
-Displaying README.md.
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
@@ -158,5 +142,3 @@ git clone
     </tr>
   </table>
 </div>
-README.md
-Displaying README.md.

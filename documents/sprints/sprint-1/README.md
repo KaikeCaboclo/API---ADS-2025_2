@@ -10,5 +10,3 @@
 
 
 *O índice de esforço está sendo medido pela métrica de Fibonacci adaptada (1, 2, 3, 5, 8, 13, 20, 40, 100. Sendo cada unidade equivalente a meia hora de esforço.)
-README.md
-Displaying README.md.
