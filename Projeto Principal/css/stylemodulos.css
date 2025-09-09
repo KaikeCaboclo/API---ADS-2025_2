@@ -93,19 +93,57 @@ footer {
   margin-top: 25rem;
 }
 
-/* Conteúdo padrão */
+/* área dos módulos*/
 .content {
-  padding: 2rem;
-  max-width: 800px;
-  margin: auto;
+ text-align: center;
 }
 
-/* Status card */
 .status-card {
   background:rgb(236, 236, 236);
   border-radius: 0.8rem;
   padding: 1.5rem;
   margin-top: 1.5rem;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  text-align: center;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.contentlinks li{
+  list-style: none;
+  padding-left: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.contentlinks li a{
+  text-align: left;
+  text-decoration:none;
+  padding-left: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.contentlinks li a:hover {
+  text-decoration: underline;
+  color: #3b82f6;
+}
+
+/*conteúdo da página*/
+
+.artigo{
+  margin:auto;
+  width: 1000px;
+  color:black;
+  text-align: justify;
+  text-indent:20px;
+  
+}
+
+.titles{
+  margin:auto;
+  width: 1000px;
+  color:black;
+  text-align: justify;
+  margin-bottom: 15px;
+  text-indent:0px;
+  margin-top:20px;
 }
