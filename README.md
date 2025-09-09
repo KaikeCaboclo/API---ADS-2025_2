@@ -1,21 +1,3 @@
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 22
-Git
-Inbox
-
-Marcos Alexandre <marcos.alexandre.scrt@gmail.com>
-Attachments
-10:21 AM (3 minutes ago)
-to me
-
-
- 2 Attachments
-  •  Scanned by Gmail
 # API 1º Semestre ADS
 
 <p align="center">
