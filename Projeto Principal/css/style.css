@@ -29,7 +29,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #f3f4f6;
+  background:linear-gradient(to right, #1e3a8a, #3b82f6);
   color: #1f2937;
   line-height: 1.6;
 }
@@ -41,7 +41,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #0e0278;
+  background-color: #1e3a8a;
   padding: 1rem 2rem;
 }
 
@@ -68,18 +68,18 @@ body {
 .hero {
   text-align: center;
   padding: 5rem 2rem;
-  background: linear-gradient(to right, #0430c0, #050f65);
+  background: linear-gradient(to right, #1e3a8a, #3b82f6);
   color: white;
-}
-
-.hero h1 {
-  font-size: 2.8rem;
-  margin-bottom: 1rem;
 }
 
 .hero-content {
   max-width: 900px;
   margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
 }
 
 .subtitulo {
@@ -95,18 +95,23 @@ body {
 
 
 
-/* Rodapé */
-footer {
-  text-align: center;
-  padding: 1rem;
-  background-color: #0e0278;
+/* Botão */
+.btn {
+  display: inline-block;
+  padding: 0.7rem 1.2rem;
+  background-color: #1e3a8a;
   color: white;
-  margin-top: 2rem;
+  text-decoration: none;
+  border-radius: 0.4rem;
+}
+
+.btn:hover {
+  background-color: #3b82f6;
 }
 
 
 
-/* Conteúdo da lista */
+/* Conteúdo padrão */
 .content {
   padding: 2rem;
   max-width: 800px;
@@ -115,16 +120,15 @@ footer {
 
 
 
-/* Status card (Provisório)*/
+/* Status card */
 .status-card {
   background: #ffffff;
   border-radius: 0.8rem;
   padding: 1.5rem;
   margin-top: 1.5rem;
-  box-shadow: 0 4px 8px rgba(223, 1, 1, 0.1);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
 }
-
 
 
 
@@ -143,42 +147,23 @@ footer {
 }
 
 .status-table th {
-  background-color: #050f65;
+  background-color: #1e3a8a;
   color: white;
 }
 
 
 
-
-/* Lista de Módulos */
-.modulo-lista {
-  list-style-type: none;
-  padding: 0;
-  margin-top: 2rem;
-}
-
-.modulo-lista li {
-  background: #ffffff;
+/* Rodapé */
+footer {
+  text-align: center;
   padding: 1rem;
-  margin-bottom: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-}
-
-.modulo-lista li a {
-  text-decoration: none;
-  color: #1e3a8a;
-  font-weight: bold;
-}
-
-.modulo-lista li a:hover {
-  text-decoration: underline;
+  background-color: #1e3a8a;
+  color: white;
+  margin-top: 10rem;
 }
 
 
-
-
-/* Seção de login centralizada */
+/* Seção de login centralizada
 .login-section {
   display: flex;
   flex-direction: column;
@@ -218,7 +203,7 @@ footer {
 
 .login-form button {
   padding: 0.8rem;
-  background: #050f65;
+  background: #0066cc;
   color: white;
   border: none;
   border-radius: 5px;
@@ -229,6 +214,30 @@ footer {
 .login-form button:hover {
   background: #004d99;
 }
+  */
 
 
+/* Lista de Módulos */
+.modulo-lista {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 2rem;
+}
 
+.modulo-lista li {
+  background: #ffffff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.modulo-lista li a {
+  text-decoration: none;
+  color: #1e3a8a;
+  font-weight: bold;
+}
+
+.modulo-lista li a:hover {
+  text-decoration: underline;
+}
