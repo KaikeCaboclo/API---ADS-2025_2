@@ -1,7 +1,25 @@
+Conversation opened. 1 read message.
+
+Skip to content
+Using Gmail with screen readers
+Enable desktop notifications for Gmail.
+   OK  No thanks
+1 of 22
+Git
+Inbox
+
+Marcos Alexandre <marcos.alexandre.scrt@gmail.com>
+Attachments
+10:21 AM (3 minutes ago)
+to me
+
+
+ 2 Attachments
+  •  Scanned by Gmail
 # API 1º Semestre ADS
 
 <p align="center">
-      <h2 align="center"> Treinamento SCRUM</h2>
+      <h2 align="center">SCRUM Academy</h2>
 </p>
 
 <p align="center">
@@ -30,14 +48,16 @@
 
 
 | Rank | User Stories                                                                                                                                                                                                                      | Esforço | Prioridade | Sprint |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | ------ |
-| 1    | Como estudante/profissional, quero um site que contenha guia técnico sobre a metodologia Scrum, com conceitos e referências, para compreender de forma clara os processos.                                                        | 20      | Alta       | 1      |
-| 2    | Como estudante/profissional, quero uma navegação simples e intuitiva, de forma a me movimentar com fluidez pelo conteúdo do site.                                                                                                 | 20      | Alta       | 1      |
-| 3    | Como estudante/profissional,quero visualizar exemplos práticos de aplicação do método Scrum, para replicar os passos em futuros projetos.                                                                                         | 20      | Média      | 1      |
-| 4    | Como estudante/profissional, quero compreender as principais habilidades (skills) importantes na área de TI, para me preparar para o mercado de trabalho e desenvolver competências necessárias para a aplicação do método Scrum. | 40      | Alta       | 2      |
-| 5    | Como estudante/profissional, quero ter um sistema de avaliação para testar meus conhecimentos sobre o método Scrum.                                                                                                               | 40      | Média      | 3      |
-| 6    | Como estudante/profissional, quero ter acesso a documentação de desenvolvimento no GitHub para acompanhar os processos adotados.                                                                                                  | 13      | Baixa      | 3      |
-| 7    | Como estudante, quero acompanhar meu progresso dos módulos iniciados/completados.                                                                                                                                                 | 20      | Baixa      | 3      |
+
+| Rank | Prioridade | User Stories                                                                                                                                                                                                                      | Esforço | Sprint |
+| ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
+| 1    | Alta       | Como contratante, quero um site de treinamento para meus funcionários que contenha guia técnico sobre a metodologia Scrum, com conceitos e referências, para compreender de forma clara os processos.                                                        | 20      | 1      |
+| 2    | Alta       | Como contratante, quero uma navegação simples e intuitiva, de forma que meus funcionários se movimentem com fluidez pelo conteúdo do site.                                                                                                 | 20      | 1      |
+| 3    | Média      | Como contratante, quero que meus funcionários sejam treinados com exemplos práticos de aplicação do método Scrum, para replicar os passos em futuros projetos.                                                                                         | 20      | 1      |
+| 4    | Alta       | Como contratante, quero que meus funcionários compreendam as principais habilidades (skills) importantes na área de TI, para que se preparem em seus trabalhos e desenvolvam as competências necessárias para a aplicação do método Scrum. | 40      | 2      |
+| 5    | Média      | Como contratante, quero ter um sistema de avaliação para que meus funcionários sejam testados em conhecimentos sobre o método Scrum.                                                                                                               | 40      | 3      |
+| 6    | Baixa      | Como contratante, quero ter acesso a documentação de desenvolvimento para acompanhar os processos adotados.                                                                                                  | 13      | 3      |
+| 7    | Baixa      | Como contratante, quero que seja possível que meus funcionários acompanhem seu progresso dos módulos iniciados/completados.                                                                                                                                                 | 20      | 3      |
 
 
 ---
@@ -58,12 +78,35 @@
 ---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
+Conversation opened. 1 read message.
 
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./documents/sprints/sprint-1/README.md) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./documents/sprints/sprint-2/README.md) |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](./documents/sprints/sprint-3/README.md) |
+Skip to content
+Using Gmail with screen readers
+Enable desktop notifications for Gmail.
+   OK  No thanks
+1 of 22
+Git
+Inbox
+
+Marcos Alexandre <marcos.alexandre.scrt@gmail.com>
+Attachments
+10:21 AM (3 minutes ago)
+to me
+
+
+ 2 Attachments
+  •  Scanned by Gmail
+# Backlog da Sprint
+
+
+| Rank | Prioridade | User Stories                                                                                                                                                                                                             | Esforço | Sprint |
+| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------ |
+| 1    | Alta       | Como contratante, quero acessar uma página simples e visualmente clara, para que eu entenda rapidamente o propósito do site e possa navegar com facilidade.                                                              | 40      | 1      |
+| 2    | Média      | Como contratante, quero ter todas a pesquisa sobre o método bem estruturada em documentos, para que a equipe possa consultar facilmente e garantir o comprometimento com o conteúdo do site.                             | 20      | 1      |
+| 3    | Média      | Como contratante interessado em metodologias ágeis, quero encontrar um resumo simples e direto sobre Scrum no site, para que eu possa entender rapidamente os conceitos principais sem precisar buscar em outras fontes. | 20      | 1      |
+*O índice de esforço está sendo medido pela métrica de Fibonacci adaptada (1, 2, 3, 5, 8, 13, 20, 40, 100. Sendo cada unidade equivalente a meia hora de esforço.)
+README.md
+Displaying README.md.
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
@@ -133,3 +176,5 @@ git clone
     </tr>
   </table>
 </div>
+README.md
+Displaying README.md.
