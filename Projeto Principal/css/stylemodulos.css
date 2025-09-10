@@ -64,6 +64,9 @@ body {
   list-style-type: none;
   padding: 0;
   margin-top: 2rem;
+  width: 90%;
+  margin:auto;
+  margin-top:10px;
 }
 
 .modulo-lista li {
@@ -82,6 +85,7 @@ body {
 
 .modulo-lista li a:hover {
   text-decoration: underline;
+  color: #3b82f6;
 }
 
 /* Rodapé */
@@ -98,31 +102,34 @@ footer {
  text-align: center;
 }
 
-.status-card {
-  background:rgb(236, 236, 236);
-  border-radius: 0.8rem;
-  padding: 1.5rem;
-  margin-top: 1.5rem;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  padding: 2rem;
-  max-width: 800px;
-  margin: auto;
-}
 
-.contentlinks li{
+.contentlinks{
+  width: 800px;
+  margin:auto;
+  margin-top: 10px;
   list-style: none;
   padding-left: 0.5rem;
   padding-bottom: 0.5rem;
+  text-decoration:none;
+  padding-left: 1.5rem;
+  padding-bottom: 0.5rem;
+  background:rgb(236, 236, 236);
+  border-radius: 0.8rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 0.5rem;
+
 }
 
-.contentlinks li a{
+
+.contentlinks a{
   text-align: left;
   text-decoration:none;
   padding-left: 1.5rem;
   padding-bottom: 0.5rem;
+  text-shadow: 0.5px 1px 1px #1e3a8a;;
 }
 
-.contentlinks li a:hover {
+.contentlinks a:hover {
   text-decoration: underline;
   color: #3b82f6;
 }
@@ -134,8 +141,19 @@ footer {
   width: 1000px;
   color:black;
   text-align: justify;
-  text-indent:20px;
+  text-indent:30px;
+  margin-top: 10px;
+  text-align:justify;
   
+}
+.text{
+  width: 940px;
+  color:black;
+  text-align: justify;
+  margin-top: 15px;
+  margin-bottom:15px;
+  padding-left:60px;
+  text-decoration: solid;
 }
 
 .titles{
@@ -146,4 +164,11 @@ footer {
   margin-bottom: 15px;
   text-indent:0px;
   margin-top:20px;
+}
+
+.subtitles{
+  font-size:19px;
+  margin-top:10px;
+  text-indent:0px;
+  margin-bottom:10px;
 }
