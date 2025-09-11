@@ -144,26 +144,28 @@ footer {
   text-indent:30px;
   margin-top: 10px;
   text-align:justify;
+  background:lightgray;
+  border-radius:20px;
+  padding-top: 5px;
+  padding-bottom:5px;
+  box-shadow:5px 1px 1px gray;
   
 }
 .text{
-  width: 940px;
   color:black;
   text-align: justify;
   margin-top: 15px;
   margin-bottom:15px;
   padding-left:60px;
   text-decoration: solid;
+  padding: 0px 20px 0px 20px;
 }
 
 .titles{
-  margin:auto;
-  width: 1000px;
-  color:black;
-  text-align: justify;
   margin-bottom: 15px;
   text-indent:0px;
   margin-top:20px;
+  padding: 0px 20px 0px 20px;
 }
 
 .subtitles{
@@ -171,4 +173,5 @@ footer {
   margin-top:10px;
   text-indent:0px;
   margin-bottom:10px;
+  padding: 0px 20px 0px 20px;
 }
