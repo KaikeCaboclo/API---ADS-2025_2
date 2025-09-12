@@ -144,11 +144,11 @@ footer {
   text-indent:30px;
   margin-top: 10px;
   text-align:justify;
-  background:lightgray;
+  background:rgb(235, 235, 235);
   border-radius:20px;
   padding-top: 5px;
   padding-bottom:5px;
-  box-shadow:5px 1px 1px gray;
+  box-shadow:5px 1px 1px rgb(179, 179, 179);
   
 }
 .text{
