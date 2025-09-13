@@ -175,3 +175,14 @@ footer {
   margin-bottom:10px;
   padding: 0px 20px 0px 20px;
 }
+
+
+
+/* Ajuste do símbolo de tópico nas listas */
+ul {
+  padding-left: 40px; 
+}
+
+ul li {
+  list-style-position: inside; 
+}
