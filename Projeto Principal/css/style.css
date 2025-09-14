@@ -1,6 +1,5 @@
 /* ==================================== */
 /* VARIÁVEIS E ESTILOS GLOBAIS          */
-/* ==================================== */
 
 :root {
   --blue-dark: #1e3a8a;
@@ -24,21 +23,20 @@ body {
 }
 
 /* ==================================== */
-/* NAVBAR                               */
-/* ==================================== */
+/*----NAVBAR----*/
 
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: var(--blue-dark);
-  padding: 1rem 2rem;
+  padding:1%;
 }
 
 .logo-area {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  margin-left: 10px;
 }
 
 .logo-img {
@@ -57,18 +55,24 @@ body {
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 1rem;
+  padding: 10px 10px;
 }
-
-.nav-links a {
+div.nav-links div{
+  margin-right:50px;
+}
+div.nav-links div:last-child{
+  margin-right:10px;
+}
+div.nav-links div a{
   color: var(--white);
   text-decoration: none;
-  padding: 0.5rem 0.8rem;
+  padding: 8px;
   border-radius: 0.3rem;
   transition: background-color 0.3s ease;
 }
 
-.nav-links a:hover {
+
+div.nav-links div a:hover {
   background-color: var(--blue-light);
 }
 
@@ -106,8 +110,6 @@ body {
 
 /* ==================================== */
 /* BOTÕES DE ACESSO (na home)           */
-/* ==================================== */
-
 .cta-section {
   text-align: center;
   padding: 3rem 2rem;
@@ -156,8 +158,7 @@ body {
 }
 
 /* ==================================== */
-/* OUTRAS SEÇÕES                        */
-/* ==================================== */
+/*----OUTRAS SEÇÕES----*/
 
 .content {
   padding: 2rem;
@@ -175,41 +176,12 @@ body {
 }
 
 /* ==================================== */
-/* RODAPÉ                               */
-/* ==================================== */
-
-footer {
+/*-----RODAPÉ-----*/
+#footer {
   text-align: center;
   padding: 1rem;
   background-color: var(--blue-dark);
   color: var(--white);
-  margin-top: 5rem;
+  margin-top: 11.5%;
 }
-
 /* ==================================== */
-/* LISTA DE MÓDULOS (não usada na home) */
-/* ==================================== */
-
-.modulo-lista {
-  list-style-type: none;
-  padding: 0;
-  margin-top: 2rem;
-}
-
-.modulo-lista li {
-  background: var(--white);
-  padding: 1rem;
-  margin-bottom: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-}
-
-.modulo-lista li a {
-  text-decoration: none;
-  color: var(--blue-dark);
-  font-weight: bold;
-}
-
-.modulo-lista li a:hover {
-  text-decoration: underline;
-}

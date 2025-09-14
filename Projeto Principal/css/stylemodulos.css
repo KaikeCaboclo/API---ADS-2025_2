@@ -94,7 +94,7 @@ footer {
   padding: 1rem;
   background-color: #1e3a8a;
   color: white;
-  margin-top: 25rem;
+  margin-top: 25%;
 }
 
 /* área dos módulos*/
@@ -138,17 +138,17 @@ footer {
 
 .artigo{
   margin:auto;
-  width: 1000px;
+  width: 80%;
   color:black;
   text-align: justify;
   text-indent:30px;
   margin-top: 10px;
   text-align:justify;
-  background:lightgray;
+  background: #F0F8Ff;
   border-radius:20px;
   padding-top: 5px;
   padding-bottom:5px;
-  box-shadow:5px 1px 1px gray;
+  box-shadow:5px 5px 1px #B0C4DE;
   
 }
 .text{
