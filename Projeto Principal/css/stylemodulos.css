@@ -1,173 +1,218 @@
-/* Logo */
-.logo-area {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.logo-img {
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
-}
-
-.logo-text {
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 1.2rem;
-}
-
-/* Reset básico */
+/* ===================== */
+/* RESET BÁSICO          */
+/* ===================== */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+  background: white;
+  color: #1f2937;
+  line-height: 1.5;
+}
+
+/* ===================== */
+/* NAVBAR                */
+/* ===================== */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e3a8a;
+  padding: 1rem 2rem;
+  position: fixed; /* Fixa no topo */
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
 }
 
 body {
-    font-family: "Poppins", sans-serif;
-    background: white;
-    color: #1f2937;
-    line-height: 1.6;
+  padding-top: 70px; /* Compensa altura da navbar */
 }
 
-/* Navbar */
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #1e3a8a;
-    padding: 1rem 2rem;
-    position: sticky;
-    top: 0;
-    z-index: 100;
+/* Logo */
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
+.logo-img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.logo-text {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+/* Links da navbar */
 .nav-links {
-    list-style: none;
-    display: flex;
-    gap: 1rem;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
 }
 
 .nav-links a {
-    color: white;
-    text-decoration: none;
-    padding: 0.5rem 0.8rem;
-    border-radius: 0.3rem;
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 0.3rem;
+  transition: background 0.3s;
 }
 
 .nav-links a:hover {
-    background-color: #3b82f6;
+  background-color: #3b82f6;
 }
 
-/* Lista de Módulos */
+/* ===================== */
+/* LISTA DE MÓDULOS      */
+/* ===================== */
 .modulo-lista {
-    list-style-type: none;
-    padding: 0;
-    margin: auto;
-    margin-top: 10px;
-    width: 90%;
+  list-style-type: none;
+  padding: 0;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 800px;
 }
 
 .modulo-lista li {
-    background: rgb(236, 236, 236);
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  background: rgb(236, 236, 236);
+  border-radius: 0.8rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.modulo-lista li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
 .modulo-lista li a {
-    text-decoration: none;
-    color: #1e3a8a;
-    font-weight: bold;
+  display: block;
+  padding: 1rem 1.5rem;
+  text-decoration: none;
+  color: #1e3a8a;
+  font-weight: bold;
+  border-radius: 0.8rem;
 }
 
 .modulo-lista li a:hover {
-    text-decoration: underline;
-    color: #3b82f6;
+  color: #3b82f6;
+  text-decoration: underline;
 }
 
-/* Rodapé */
-footer {
-    text-align: center;
-    padding: 1rem;
-    background-color: #1e3a8a;
-    color: white;
-    margin-top: 25%;
-}
-
-/* área dos módulos*/
+/* ===================== */
+/* LINKS DENTRO DOS MÓDULOS */
+/* ===================== */
 .content {
-    text-align: center;
+  text-align: center;
 }
 
 .contentlinks {
-    width: 800px;
-    margin: auto;
-    margin-top: 10px;
-    list-style: none;
-    padding: 0.5rem;
-    background: rgb(236, 236, 236);
-    border-radius: 0.8rem;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 700px;
+  margin: 12px auto;
+  background: rgb(236, 236, 236);
+  border-radius: 0.8rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.contentlinks:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
 .contentlinks a {
-    text-align: left;
-    text-decoration: none;
-    padding-left: 1.5rem;
-    text-shadow: 0.5px 1px 1px #1e3a8a;
+  display: block;
+  padding: 0.9rem 1.2rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: #1e3a8a;
+  border-radius: 0.8rem;
 }
 
 .contentlinks a:hover {
-    text-decoration: underline;
-    color: #3b82f6;
+  color: #3b82f6;
+  text-decoration: underline;
 }
 
-/* Conteúdo da página (Card) */
+/* ===================== */
+/* CONTEÚDO ARTIGOS      */
+/* ===================== */
 .artigo {
-    margin: 20px auto;
-    width: 80%;
-    max-width: 900px;
-    background: #f0f8ff;
-    border-radius: 20px;
-    box-shadow: 5px 5px 1px #b0c4de;
-    margin-top: 20px;
-    
+  margin: 20px auto;
+  width: 80%;
+  max-width: 900px;
+  background: #f0f8ff;
+  border-radius: 20px;
+  box-shadow: 5px 5px 1px #b0c4de;
+  padding: 20px 25px;
 }
 
-/* Conteúdo interno do card */
+/* Conteúdo interno */
 .artigo-conteudo {
-    padding: 20px;
-    text-align: justify;
+  padding: 10px;
+  text-align: justify;
 }
 
 .artigo-conteudo p {
-    text-indent: 0;
-    margin: 15px 0;
+  margin: 8px 0;       /* bem mais compacto */
+  line-height: 1.5;    /* leitura confortável */
+  font-size: 1rem;
+  color: #1f2937;
 }
 
 .titles {
-    margin-bottom: 15px;
-    text-indent: 0; 
-    margin-top: 0;
-    text-align: center;
+  margin-bottom: 18px;
+  text-align: center;
+  font-size: 26px;
+  color: #1e3a8a;
 }
 
 .subtitles {
-    font-size: 19px;
-    margin-top: 10px;
-    text-indent: 0;
-    margin-bottom: 10px;
+  font-size: 18px;
+  margin-top: 12px;
+  margin-bottom: 6px;
+  color: #1e3a8a;
+  font-weight: 600;
 }
 
-/* Ajuste do símbolo de tópico nas listas */
+/* ===================== */
+/* LISTAS INTERNAS       */
+/* ===================== */
 ul {
-    padding-left: 40px;
+  padding-left: 35px;
 }
 
 ul li {
-    list-style-position: inside;
+  list-style-position: inside;
+}
+
+/* ===================== */
+/* RODAPÉ                */
+/* ===================== */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #1e3a8a;
+  color: white;
+  margin-top: 40px;
+}
+
+.text {
+  margin-bottom: 1.2em; /* ou qualquer valor que você achar adequado */
+  line-height: 1.6;     /* melhora a leitura do texto */
 }
