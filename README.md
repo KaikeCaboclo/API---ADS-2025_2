@@ -18,11 +18,20 @@
 
 
 ## 🏅 Desafio <a id="desafio"></a>
-
+<p>O desafio consiste em desenvolver um sistema web que apresente de forma clara e interativa o <strong>Scrum</strong>, tendo foco na disseminação da metodologia e replicabilidade dos processos e com exemplos práticos que facilitem a compreensão. Além disso, deve o sistema deve conter avaliações parciais e avaliação geral, para verificação do aprendizado. 
+</p>
 
 
 ## 🏅 Solução <a id="solucao"></a>
-
+<p>A solução proposta é a criação de uma plataforma web sobre <strong>Scrum</strong>, organizada em módulos contendo:</p>
+<ul>
+  <li>Conceitos e fundamentos com referências bibliográficas.</li>
+  <li>Exemplos práticos aplicáveis em contextos reais de desenvolvimento.</li>
+  <li>Formulário de avaliação parcial e geral.</li>
+  <li>Módulo sobre competências necessárias para profissionais de TI como objetivo secundário.</li>
+  <li>Repositório GitHub com toda a documentação técnica.</li>
+</ul>
+<p>O sistema terá como prioridade principal a <strong>disseminação</strong> dos processos <strong>Scrum</strong>, e como prioridade secundária a <strong>compreensão</strong> de <strong>habilidades profissionais</strong> relacionadas.</p>
 
 ---
 
