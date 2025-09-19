@@ -1,8 +1,42 @@
-/* Logo */
+/* ==================================== */
+/* VARIÁVEIS E ESTILOS GLOBAIS          */
+
+:root {
+  --blue-dark: #1e3a8a;
+  --blue-light: #3b82f6;
+  --white: #ffffff;
+  --text-dark: #1f2937;
+  --font-family: "Poppins", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-family);
+  background: linear-gradient(to right, var(--blue-dark), var(--blue-light));
+  color: var(--text-dark);
+  line-height: 1.6;
+}
+
+/* ==================================== */
+/*----NAVBAR----*/
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--blue-dark);
+  padding:1%;
+}
+
 .logo-area {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  margin-left: 10px;
 }
 
 .logo-img {
@@ -12,64 +46,45 @@
 }
 
 .logo-text {
-  color: white;
+  color: var(--white);
   font-weight: bold;
   text-decoration: none;
   font-size: 1.2rem;
 }
 
-
-
-/* Reset básico */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Poppins", sans-serif;
-  background:linear-gradient(to right, #1e3a8a, #3b82f6);
-  color: #1f2937;
-  line-height: 1.6;
-}
-
-
-
-/* Navbar */
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #1e3a8a;
-  padding: 1rem 2rem;
-}
-
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 1rem;
+  padding: 10px 10px;
 }
-
-.nav-links a {
-  color: white;
+div.nav-links div{
+  margin-right:50px;
+}
+div.nav-links div:last-child{
+  margin-right:10px;
+}
+div.nav-links div a{
+  color: var(--white);
   text-decoration: none;
-  padding: 0.5rem 0.8rem;
+  padding: 8px;
   border-radius: 0.3rem;
-}
-
-.nav-links a:hover {
-  background-color: #3b82f6;
+  transition: background-color 0.3s ease;
 }
 
 
+div.nav-links div a:hover {
+  background-color: var(--blue-light);
+}
 
-/* Hero */
+/* ==================================== */
+/* HERO SECTION                         */
+/* ==================================== */
+
 .hero {
   text-align: center;
   padding: 5rem 2rem;
-  background: linear-gradient(to right, #1e3a8a, #3b82f6);
-  color: white;
+  background: linear-gradient(to right, var(--blue-dark), var(--blue-light));
+  color: var(--white);
 }
 
 .hero-content {
@@ -93,151 +108,80 @@ body {
   line-height: 1.8;
 }
 
+/* ==================================== */
+/* BOTÕES DE ACESSO (na home)           */
+.cta-section {
+  text-align: center;
+  padding: 3rem 2rem;
+  color: var(--white);
+}
 
+.cta-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
 
-/* Botão */
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap; 
+}
+
 .btn {
   display: inline-block;
-  padding: 0.7rem 1.2rem;
-  background-color: #1e3a8a;
-  color: white;
+  padding: 1rem 2rem;
   text-decoration: none;
   border-radius: 0.4rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
 }
 
-.btn:hover {
-  background-color: #3b82f6;
+.btn-employee {
+  background-color: var(--white);
+  color: var(--blue-dark);
 }
 
+.btn-employee:hover {
+  background-color: #f0f4f8;
+}
 
+.btn-admin {
+  background-color: var(--blue-dark);
+  color: var(--white);
+}
 
-/* Conteúdo padrão */
+.btn-admin:hover {
+  background-color: var(--blue-light);
+}
+
+/* ==================================== */
+/*----OUTRAS SEÇÕES----*/
+
 .content {
   padding: 2rem;
   max-width: 800px;
   margin: auto;
 }
 
-
-
-/* Status card */
 .status-card {
-  background: #ffffff;
+  background: var(--white);
   border-radius: 0.8rem;
   padding: 1.5rem;
   margin-top: 1.5rem;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  text-align: center;
-}
-
-
-
-/* Tabela */
-.status-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 1.5rem;
-}
-
-.status-table th,
-.status-table td {
-  border: 1px solid #d1d5db;
-  padding: 0.8rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   text-align: left;
 }
 
-.status-table th {
-  background-color: #1e3a8a;
-  color: white;
-}
-
-
-
-/* Rodapé */
-footer {
+/* ==================================== */
+/*-----RODAPÉ-----*/
+#footer {
   text-align: center;
   padding: 1rem;
-  background-color: #1e3a8a;
-  color: white;
-  margin-top: 10rem;
+  background-color: var(--blue-dark);
+  color: var(--white);
+  margin-top: 11.5%;
 }
-
-
-/* Seção de login centralizada
-.login-section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 3rem auto;
-  padding: 2rem;
-  width: 100%;
-  max-width: 400px;
-  background: #f8f9fa;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
-
-.login-section h2 {
-  margin-bottom: 1rem;
-  color: #333;
-}
-
-.login-form {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-
-.login-form label {
-  margin: 0.5rem 0 0.2rem;
-  font-weight: bold;
-}
-
-.login-form input {
-  padding: 0.7rem;
-  margin-bottom: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-.login-form button {
-  padding: 0.8rem;
-  background: #0066cc;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-weight: bold;
-}
-
-.login-form button:hover {
-  background: #004d99;
-}
-  */
-
-
-/* Lista de Módulos */
-.modulo-lista {
-  list-style-type: none;
-  padding: 0;
-  margin-top: 2rem;
-}
-
-.modulo-lista li {
-  background: #ffffff;
-  padding: 1rem;
-  margin-bottom: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-}
-
-.modulo-lista li a {
-  text-decoration: none;
-  color: #1e3a8a;
-  font-weight: bold;
-}
-
-.modulo-lista li a:hover {
-  text-decoration: underline;
-}
+/* ==================================== */
