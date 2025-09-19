@@ -18,7 +18,9 @@
 
 
 ## 🏅 Desafio <a id="desafio"></a>
-<p>O desafio consiste em desenvolver um sistema web que apresente de forma clara e interativa o <strong>Scrum</strong>, tendo foco na disseminação da metodologia e replicabilidade dos processos e com exemplos práticos que facilitem a compreensão. Além disso, deve o sistema deve conter avaliações parciais e avaliação geral, para verificação do aprendizado. 
+<p>O desafio consiste em desenvolver um sistema web que apresente de forma clara e interativa o Scrum, tendo foco na disseminação da metodologia e replicabilidade dos processos, com exemplos práticos que facilitem a compreensão. O sistema visa resolver a dificuldade de muitos times e empresas na adoção e compreensão completa do Scrum, garantindo uma aplicação mais eficaz e eficiente da metodologia.
+
+Além disso, o sistema deve conter avaliações parciais e uma avaliação geral, permitindo aos gestores verificar o aprendizado da equipe e identificar áreas de melhoria durante o processo de implementação, ajudando a garantir que o time esteja absorvendo e aplicando corretamente os conceitos do Scrum.
 </p>
 
 
