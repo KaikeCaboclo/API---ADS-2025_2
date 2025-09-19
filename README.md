@@ -12,7 +12,7 @@
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
-  <a href ="#manual">Manual de Instalação</a>  | 
+  <a href ="#manual">Documentação</a>  | 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
@@ -85,7 +85,7 @@
 
 
 
-### 📖 Documentação 
+### 📖 Documentação <a id="manual"></a>
 
 * Manual de Usuário
 * Manual de Instalação
