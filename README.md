@@ -83,15 +83,15 @@
 </a>
 </h4>
 
-
+---
 
 ### 📖 Documentação <a id="manual"></a>
 
-* Manual de Usuário
-* Manual de Instalação
-* Padrões de Commits
-* Estrutura de branches
-  
+* <a href="./documents/Manual de usuário.md">Manual de Usuário</a>  |
+* <a href="./documents/Manual de instalação.md">Manual de Instalação</a>  |
+* <a href="./documents/Padrões de commits.md">Padrões de Commits</a>  |
+* <a href="./documents/Estrutura de Branches.md">Estrutura de Branches</a>  |
+
 ---
 
 ## 🎓 Equipe <a id="equipe"></a>
