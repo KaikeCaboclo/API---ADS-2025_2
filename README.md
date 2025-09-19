@@ -58,9 +58,9 @@
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./documents/processo/sprints/sprint-1/README.md) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./documents/processo/sprints/sprint-2/README.md) |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](./documents/processo/sprints/sprint-3/README.md) |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./documents/Product/sprints/sprint-1/README.md) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./documents/Product/sprints/sprint-2/README.md) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](./documents/Product/sprints/sprint-3/README.md) |
 
 
 
