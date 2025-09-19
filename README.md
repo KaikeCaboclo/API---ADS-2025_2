@@ -87,10 +87,10 @@
 
 ### 📖 Documentação <a id="manual"></a>
 
-* <a href="./documents/Manual de usuário.md">Manual de Usuário</a>  |
-* <a href="./documents/Manual de instalação.md">Manual de Instalação</a>  |
-* <a href="./documents/Padrões de commits.md">Padrões de Commits</a>  |
-* <a href="./documents/Estrutura de Branches.md">Estrutura de Branches</a>  |
+* <a href="./documents/Manual de usuário.md">Manual de Usuário</a>  
+* <a href="./documents/Manual de instalação.md">Manual de Instalação</a>  
+* <a href="./documents/Padrões de commits.md">Padrões de Commits</a>  
+* <a href="./documents/Estrutura de Branches.md">Estrutura de Branches</a>  
 
 ---
 
