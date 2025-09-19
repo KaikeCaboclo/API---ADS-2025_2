@@ -7,7 +7,7 @@
 <p align="center">
   | <a href ="#desafio"> Desafio</a>  |
   <a href ="#solucao"> Solução</a>  |   
-  [Backlog do Produto](./documents/Product/sprints/product-backlog/README.md)  |
+  <a href="./documents/Product/sprints/product-backlog/README.md">Backlog do Produto</a>  |
   <a href ="#dor">DoR</a>  |
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
@@ -23,7 +23,7 @@
 
 
 ## 🏅 Solução <a id="solucao"></a>
-<<<<<<< documentação
+
 <p>A solução proposta é a criação de uma plataforma web sobre <strong>Scrum</strong>, organizada em módulos contendo:</p>
 <ul>
   <li>Conceitos e fundamentos com referências bibliográficas.</li>
@@ -33,9 +33,6 @@
   <li>Repositório GitHub com toda a documentação técnica.</li>
 </ul>
 <p>O sistema terá como prioridade principal a <strong>disseminação</strong> dos processos <strong>Scrum</strong>, e como prioridade secundária a <strong>compreensão</strong> de <strong>habilidades profissionais</strong> relacionadas.</p>
-=======
-
->>>>>>> main
 
 ---
 
@@ -61,9 +58,9 @@
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./docs/processo/sprints/sprint-1/README.md) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./documents/processo/sprints/sprint-1/README.md) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./documents/processo/sprints/sprint-2/README.md) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](./documents/processo/sprints/sprint-3/README.md) |
 
 
 
