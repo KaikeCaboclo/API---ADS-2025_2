@@ -116,7 +116,7 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
     </tr>
     <tr>
       <td>
-        <img src="https://drive.google.com/uc?export=view&id=1XIpcdBAvmVLp4Y9w8ohvHrYer3a3XR9J" alt="Foto Marcos" width="80" style="border-radius: 50%;">
+        <img src="https://drive.google.com/file/d/1XIpcdBAvmVLp4Y9w8ohvHrYer3a3XR9J/view?usp=sharing" alt="Marcos" width="80" style="border-radius: 50%;">
       </td>
       <td>Marcos Alexandre</td>
       <td>Scrum Master</td>
@@ -132,7 +132,7 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
     </tr>
     <tr>
       <td>
-        <img src="https://drive.google.com/uc?export=view&id=1do5FK7yeEdmJPwQ18IKjgrSnwVnploq8" alt="Foto Miguel" width="80" style="border-radius: 50%;">
+        <img src="https://drive.google.com/file/d/1do5FK7yeEdmJPwQ18IKjgrSnwVnploq8/view?usp=sharing" alt="Miguel" width="80" style="border-radius: 50%;">
       </td>
       <td>Miguel Paixão</td>
       <td>Desenvolvedor</td>
