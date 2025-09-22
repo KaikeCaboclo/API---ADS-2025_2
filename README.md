@@ -98,6 +98,11 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
 
 ## 🎓 Equipe <a id="equipe"></a>
 
+<a href="https://github.com/KaikeCaboclo/API---ADS-2025_2/graphs/contributors" target="_blank">
+  <img src="https://contrib.rocks/image?repo=KaikeCaboclo/API---ADS-2025_2&columns=5" alt="Avatars of all contributors">
+</a>
+
+
 <div align="center">
   <table>
     <tr>
@@ -115,9 +120,6 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
-      <td>
-        <img src="https://drive.google.com/file/d/1XIpcdBAvmVLp4Y9w8ohvHrYer3a3XR9J/view?usp=sharing" alt="Marcos" width="80" style="border-radius: 50%;">
-      </td>
       <td>Marcos Alexandre</td>
       <td>Scrum Master</td>
       <td><a href="https://github.com/MarcosAlexandre-txt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
@@ -131,9 +133,6 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
-      <td>
-        <img src="https://drive.google.com/file/d/1do5FK7yeEdmJPwQ18IKjgrSnwVnploq8/view?usp=sharing" alt="Miguel" width="80" style="border-radius: 50%;">
-      </td>
       <td>Miguel Paixão</td>
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/miguel-P964"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
