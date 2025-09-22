@@ -98,9 +98,11 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
 
 ## 🎓 Equipe <a id="equipe"></a>
 
-<a href="https://github.com/KaikeCaboclo/API---ADS-2025_2/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=KaikeCaboclo/API---ADS-2025_2&columns=5" alt="Avatars of all contributors">
-</a>
+<p align="center">
+  <a href="https://github.com/KaikeCaboclo/API---ADS-2025_2/graphs/contributors" target="_blank">
+    <img src="https://contrib.rocks/image?repo=KaikeCaboclo/API---ADS-2025_2&columns=5" alt="Avatars of all contributors">
+  </a>
+</p>
 
 
 <div align="center">
