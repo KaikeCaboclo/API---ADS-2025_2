@@ -115,6 +115,9 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
+      <td>
+        <img src="https://drive.google.com/uc?export=view&id=1XIpcdBAvmVLp4Y9w8ohvHrYer3a3XR9J" alt="Foto Marcos" width="80" style="border-radius: 50%;">
+      </td>
       <td>Marcos Alexandre</td>
       <td>Scrum Master</td>
       <td><a href="https://github.com/MarcosAlexandre-txt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
@@ -128,6 +131,9 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
+      <td>
+        <img src="https://drive.google.com/uc?export=view&id=1do5FK7yeEdmJPwQ18IKjgrSnwVnploq8" alt="Foto Miguel" width="80" style="border-radius: 50%;">
+      </td>
       <td>Miguel Paixão</td>
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/miguel-P964"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
