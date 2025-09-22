@@ -109,7 +109,10 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
     <tr>
       <td>Kaike Lima</td>
       <td>Product Owner</td>
-      <td><a href="https://github.com/KaikeCaboclo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://github.com/KaikeCaboclo">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/kaike-lima-728a772a6/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Marcos Alexandre</td>
@@ -121,11 +124,15 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
       <td>Davi Reis</td>
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/davireis00"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/davi-reis-471606384/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Miguel Paixão</td>
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/miguel-P964"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/miguel-paix%C3%A3o-165211386/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Alexandre Rovina</td>
