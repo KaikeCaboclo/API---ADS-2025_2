@@ -40,14 +40,12 @@ Nosso desafio é criar uma plataforma web de treinamento Scrum voltada para cont
 
 ## 🎯 Objetivo da Sprint 1
 <a id="objetivo"></a>
-<div>
 Entregar as bases estruturais e visuais da aplicação, garantindo:
 
-• Navegação funcional entre as páginas
-• Definição da identidade visual e layout responsivo
-• Estruturação inicial do conteúdo de aprendizagem
-• Criação da documentação de pesquisa sobre o método Scrum
-</div>
+- Navegação funcional entre as páginas
+- Definição da identidade visual e layout responsivo
+- Estruturação inicial do conteúdo de aprendizagem
+- Criação da documentação de pesquisa sobre o método Scrum
 <br>
 
 ## Backlog da Sprint
