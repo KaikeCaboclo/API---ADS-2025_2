@@ -42,6 +42,7 @@ Nosso desafio é criar uma plataforma web de treinamento Scrum voltada para cont
 <a id="objetivo"></a>
 <div>
 Entregar as bases estruturais e visuais da aplicação, garantindo:
+
 • Navegação funcional entre as páginas
 • Definição da identidade visual e layout responsivo
 • Estruturação inicial do conteúdo de aprendizagem
