@@ -11,7 +11,7 @@
 <br>
 <br>
 
-🏁 Desafio: Criar um site para treinamento em Scrum
+## 🏁 Desafio: Criar um site para treinamento em Scrum
 <a id="desafio"></a>
 
 A capacitação em metodologias ágeis é uma demanda crescente no mercado atual. Muitas empresas desejam adotar o Scrum como framework principal de gestão, mas encontram dificuldades em capacitar suas equipes de forma acessível, clara e rápida.
@@ -20,7 +20,7 @@ Nosso desafio é criar uma plataforma web de treinamento Scrum voltada para cont
 <br>
 
 
-🫧 MVP (Produto Mínimo Viável)
+## 🫧 MVP (Produto Mínimo Viável)
 <a id="mvp"></a>
 <div>
 <b>O MVP da aplicação consiste em um site funcional com foco no ensino integral de Scrum e suas implicações na área de desenvolvimento de projetos, por meio de três páginas principais.
@@ -37,7 +37,7 @@ Nosso desafio é criar uma plataforma web de treinamento Scrum voltada para cont
 <br>
 
 
-🎯 Objetivo da Sprint 1
+## 🎯 Objetivo da Sprint 1
 <a id="objetivo"></a>
 <div>
 Entregar as bases estruturais e visuais da aplicação, garantindo:
@@ -48,7 +48,7 @@ Entregar as bases estruturais e visuais da aplicação, garantindo:
 </div>
 <br>
 
-# Backlog da Sprint
+## Backlog da Sprint
 <a id="backlog"></a>
 
 <div align="center">
