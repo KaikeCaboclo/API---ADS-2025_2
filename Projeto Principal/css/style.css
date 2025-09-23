@@ -173,9 +173,9 @@ div.nav-links div a:hover {
 /*-----RODAPÉ-----*/
 #footer {
   text-align: center;
-  padding: 1rem;
+  padding: 0.5rem;
   background-color: var(--blue-dark);
   color: var(--white);
-  margin-top: 11.5%;
+  margin-top: 10%;
 }
 /* ==================================== */

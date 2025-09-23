@@ -22,7 +22,7 @@ body {
   font-family: "Poppins", sans-serif;
   background:white;
   color: #1f2937;
-  line-height: 1.6;
+  line-height: 1.6; 
 }
 
 
@@ -68,6 +68,13 @@ body {
   margin-bottom: 1rem;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.8s, box-shadow 0.8s;
+}
+
+.modulo-lista li:hover{
+  transform: scale(1.05, 1.05);
+  box-shadow: 3px 3px 1px #B0C4DE;
+ 
 }
 
 .modulo-lista li a {
@@ -84,22 +91,24 @@ body {
 /* Rodapé */
 footer {
   text-align: center;
-  padding: 1rem;
+  padding: 0.5rem;
   background-color: #1e3a8a;
   color: white;
-  margin-top: 25%;
+  margin-top: 40%;
 }
 
 /* área dos módulos*/
 .content {
  text-align: center;
+ height: 100px;
+ padding-top: 1rem;
+ flex: 1;
 }
-
 
 .contentlinks{
   width: 800px;
   margin:auto;
-  margin-top: 10px;
+  margin-bottom: 1rem;
   list-style: none;
   padding-left: 0.5rem;
   padding-bottom: 0.5rem;
@@ -110,7 +119,13 @@ footer {
   border-radius: 0.8rem;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   padding: 0.5rem;
+  transition: transform 0.8s, box-shadow 0.8s;
 
+}
+
+.contentlinks:hover{
+  transform: scale(1.05, 1.05);
+  box-shadow: 3px 3px 1px #B0C4DE;
 }
 
 
