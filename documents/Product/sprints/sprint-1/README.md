@@ -26,6 +26,7 @@ Nosso desafio é criar uma plataforma web de treinamento Scrum voltada para cont
 <b>O MVP da aplicação consiste em um site funcional com foco no ensino integral de Scrum e suas implicações na área de desenvolvimento de projetos, por meio de três páginas principais.
 <br>
 <br>🧱 O usuário tem acesso a:
+  
 - Página Inicial com apresentação clara do objetivo do site e navegação simples
 - Página de Módulos com acesso ao conteúdo pesquisado pela equipe, estruturado por tópicos
 - Página Sobre Nós apresentando a equipe desenvolvedora
