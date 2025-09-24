@@ -194,3 +194,8 @@ ul {
 ul li {
   list-style-position: inside; 
 }
+
+.figura{
+  align-items: center;
+  width:500px;
+}
