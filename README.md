@@ -145,6 +145,7 @@ Além disso, o sistema deve conter avaliações parciais e uma avaliação geral
       <td>Alexandre Rovina</td>
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/AlexandreSkutera"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="http://www.linkedin.com/in/alexandre-s-014310330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
   </table>
 </div>
